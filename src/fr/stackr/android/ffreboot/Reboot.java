@@ -12,11 +12,12 @@ public class Reboot extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         
+        /*
         try {
 			Runtime.getRuntime().exec(new String[]{"/system/bin/su","-c","reboot now"});
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
+		} */
 
     }
     
