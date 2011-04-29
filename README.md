@@ -15,6 +15,15 @@ Works fine with
 * Samsung Galaxy S
 * Huawei Ideos
 
+Download
+========
+
+If you don't want to bother with the Eclipse project, you can fetch the APK here : 
+
+[http://lab.stackr.fr/apps/](http://lab.stackr.fr/apps/)
+
+I will try to maintain the version up to date.
+
 Other
 =====
 
